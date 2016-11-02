@@ -80,7 +80,7 @@ gems:
 # Exclude these files from your production _site
 exclude:
   - Genfile
-  - Genfile.lock"
+  - Genfile.lock
   - LICENSE
   - README.md
   - CNAME
