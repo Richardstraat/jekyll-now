@@ -3,10 +3,11 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Richard Bellet
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Passionate about the power of software, and how it is improving our lives.
+Helping large Corporations in Europe Transform and benefit from GitHub
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -21,7 +22,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: richardstraat
   instagram:
   linkedin:
   pinterest:
@@ -79,8 +80,6 @@ gems:
 
 # Exclude these files from your production _site
 exclude:
-  - Gemfile
-  - Gemfile.lock
   - LICENSE
   - README.md
   - CNAME
