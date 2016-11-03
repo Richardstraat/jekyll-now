@@ -8,7 +8,7 @@ I wanted to spend some time in giving more details around some key areas which I
 
 
 
-#Communication
+##Communication
 
 from the beginning, it is very important to understand 
 
@@ -16,13 +16,13 @@ from the beginning, it is very important to understand
 
 
 
-#Knowledge transfer
+##Knowledge transfer
 
 
-#Accountability and transparency
+##Accountability and transparency
 
 
-#Mentorship
+##Mentorship
 
 
 
