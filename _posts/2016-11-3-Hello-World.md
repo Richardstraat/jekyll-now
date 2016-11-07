@@ -13,8 +13,12 @@ I wanted to spend some time in giving more details around some key areas which I
 To build a trustworthy relationship, you first need to understand what you should expect from one another.
 You should also understand what motivates and drives your interlocutor.
 
+The first exercise is therefore to clearly stated what are your expectations:
 
-do you expect setting up the right expectation Before to from the beginning, it is very important to understand 
+Example:
+
+As a R|ep I expect the SDR | As a SDR I expect the Rep |
+to allocate 3 days on outbound prospecting on my territory | to share all his knowledge on the account mapping and and territory mapping |
 
 
 
