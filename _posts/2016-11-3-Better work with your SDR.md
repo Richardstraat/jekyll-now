@@ -7,14 +7,18 @@ I wanted to spend some time in giving more details around some key areas which I
 
 
 Whenever, you try to build a partnership, you should first understand what motivates and drives your interlocutor.
-An SDR will likely be paid on Sales Accepted lead (SAL) as it is under his control to find and qualify a lead. Upon certain criteria (BANT or [derived version](http://www.saleshacker.com/bant-sales-qualification-new-era/) and the validation of the rep accepting the lead as being an opportunity, the SAL will be paid. 
+An SDR will likely be paid on Sales Accepted lead (SAL) as it is under his control to find and qualify a lead. Upon certain criteria (BANT new version(http://www.saleshacker.com/bant-sales-qualification-new-era/) or [BNTT] http://moderntechsales.com/qualification) as examples) and the validation of the rep accepting the lead as being an opportunity, the SAL will be paid. 
+However, a Rep is solely interested in sales revenue and ARR (annual recurrent revenue). Even if he recognizes the way an SDR is compensated and the criteria of acceptance of an SALs, every Rep will set up different standards for himself to accept having a new opportunity in his pipeline. 
+Some organisation find a way to fix this gap by having part of the SDR remuneration on the Revenue (1% of the ARR) or having an SAL quota and a Revenue quota being the same of the Rep.
 
+It helps but it doesn't resolve the fact that it is not under the control of an SDR that the Rep closes a deal or not. 
+Forcing an sales rep to accept and SAL is not the solution as well. How do you measure how well the NEED is qualified ? It is not a tick in a box.
 
+So, it is down to the trust you are buidling through constant and bidirectionnal communication.
 
-To build a trustworthy relationship, you first need to understand what you should expect from one another.
+To build a trustworthy relationship, you also need to understand what you should expect from one another.
 
-
-The first exercise is therefore to clearly stated what are your expectations:
+One of The first exercise will be to clearly stated what are your expectations:
 
 Example:
 
@@ -29,7 +33,10 @@ to have a well defined agenda on meeting set | accept my lead within 24 hours if
 
 # Knowledge transfer
 
+How do you ensure, you are prepared to deliver the best message to your prospect and keep iterrate this message to improve the outcome of your outbound initiative ?
+At Github, we document everything into GitHub issues or Pull request. We also are having a great deal of interaction through Slack. So the information is really never lost and we don't depend in tribal knowledge.
 
+Of course, salesforce is being used heavily as well but having a GitHub issue with all the contribution of an extended team of expert within your company is really a great way to share knowledge.
 
 
 # Accountability and transparency
