@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Better work with your SDR !
+categories : xxx
 ---
 
 For a sales representative, teaming with his SDR, can be sometimes challenging. Depending who you are as a sales person, you will either succeed or failed in making this relationship work.
