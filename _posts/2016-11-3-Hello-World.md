@@ -7,11 +7,13 @@ For a sales representative, teaming with his SDR, can be sometimes challenging. 
 I wanted to spend some time in giving more details around some key areas which I have witnessed being the key of a succesfull relationship.
 
 
+Communication
 
-##Communication
+To build a trustworthy relationship, you first need to understand what you should expect from one another.
+You should also understand what motivates and drives your interlocutor.
 
-from the beginning, it is very important to understand 
 
+do you expect setting up the right expectation Before to from the beginning, it is very important to understand 
 
 
 
