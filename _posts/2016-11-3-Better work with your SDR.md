@@ -7,7 +7,7 @@ I wanted to spend some time in giving more details around some key areas which I
 
 
 Whenever, you try to build a partnership, you should first understand what motivates and drives your interlocutor.
-An SDR will likely be paid on Sales Accepted lead (SAL) as it is under his control to find and qualify a lead. Upon certain criteria (BANT or (derived version)[http://www.saleshacker.com/bant-sales-qualification-new-era/]) and the validation of the rep accepting the lead as being an opportunity, the SAL will be paid. 
+An SDR will likely be paid on Sales Accepted lead (SAL) as it is under his control to find and qualify a lead. Upon certain criteria (BANT or [derived version](http://www.saleshacker.com/bant-sales-qualification-new-era/) and the validation of the rep accepting the lead as being an opportunity, the SAL will be paid. 
 
 
 
