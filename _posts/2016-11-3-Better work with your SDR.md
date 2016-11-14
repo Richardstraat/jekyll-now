@@ -8,7 +8,7 @@ I wanted to spend some time in giving more details around some key areas which I
 
 
 Whenever, you try to build a partnership, you should first understand what motivates and drives your interlocutor.
-An SDR will likely be paid on Sales Accepted lead (SAL) as it is under his control to find and qualify a lead. Upon certain criteria (BANT new version(http://www.saleshacker.com/bant-sales-qualification-new-era/) or [BNTT] http://moderntechsales.com/qualification) as examples) and the validation of the rep accepting the lead as being an opportunity, the SAL will be paid. 
+An SDR will likely be paid on Sales Accepted lead (SAL) as it is under his control to find and qualify a lead. Upon certain criteria ([BANT new version](http://www.saleshacker.com/bant-sales-qualification-new-era/) or [BNTT](http://moderntechsales.com/qualification)) as examples) and the validation of the rep accepting the lead as being an opportunity, the SAL will be paid. 
 However, a Rep is solely interested in sales revenue and ARR (annual recurrent revenue). Even if he recognizes the way an SDR is compensated and the criteria of acceptance of an SALs, every Rep will set up different standards for himself to accept having a new opportunity in his pipeline. 
 Forcing an sales rep to accept and SAL is not the solution as well. How do you measure how well the NEED is qualified ? It is not a tick in a box.
 
