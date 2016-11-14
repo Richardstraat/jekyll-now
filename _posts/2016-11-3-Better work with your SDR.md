@@ -1,6 +1,7 @@
 
-For a sales representative, teaming with his SDR, can be sometimes challenging. Depending who you are as a sales person, you will either succeed or failed in making this relationship work.
+As a sales representative, an SDR can be an incredible ressource that can really help you to build a healthy pipeline and as a result overachieve your revenue quota. However, in some cases, it can also be challenging as you will need to invest time in this relationship, be patient and trust the outcome. Depending on how your react through this process, you will either succeed or failed in making this relationship work.
 I wanted to spend some time in giving more details around some key areas which I have witnessed being the key of a succesfull relationship.
+
 
 
 # Communication
@@ -16,7 +17,7 @@ Some organisation find a way to fix this gap by having part of the SDR remunerat
 I believe it is important to share the same goal so definitively having a shared quota really helps but it doesn't resolve the fact that it is not under the control of an SDR that the Rep closes a deal or not. 
 
 
-So, it is down to the trust you are buidling through constant and bidirectionnal communication.
+So, it is down to the trust you are building through constant and bidirectionnal communication.
 
 To build a trustworthy relationship, you also need to understand what you should expect from one another.
 
@@ -49,6 +50,8 @@ Of course, your CRM system should stay your main source of truth but having a Gi
 
 # Accountability and transparency
 
+I encourage both field Sales Rep and SDR to be accountable of each other actions and initiatives. The very minimum should be two meetings a week : 1 meeting to plan the week ahead and 1 meeting for feedback.
+Once of the best team I have seen is checking daily on each other and will share what they will do at the beginning of the day and will check in at the end of the day.
 
 
 
