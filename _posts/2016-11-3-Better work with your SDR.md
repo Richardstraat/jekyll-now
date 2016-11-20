@@ -24,12 +24,12 @@ One of The first exercise will be to clearly stated what are your expectations:
 
 Example:
 
-As a Rep I expect the SDR | As an SDR I expect the Rep |
+**As a Rep I expect the SDR** | **As an SDR I expect the Rep** |
 ----|------|
-- to allocate x days on outbound prospecting on my territory | - to share all his knowledge on the account (contacts, previous history, possible challenges based on the industry...) |
-- to share all his weekly activities on the account provided | - to develop jointly strategies around the account before contact
-- to set up a goal of minimum xx qualified lead a week on my territory or xx Meetings | - to provide me with a minimum of 5 new accounts every 2 weeks |
-to have a well defined agenda on meeting set | accept my lead within 24 hours if qualification criteria met|
+- to allocate x days on outbound prospecting on my territory |- to share all his knowledge on the account (contacts, previous history, possible challenges based on the industry...) |
+- to share all his weekly activities on the account provided |- to develop jointly strategies around the account before contact
+- to set up a goal of minimum xx qualified lead a week on my territory or xx Meetings |- to provide me with a minimum of 5 new accounts every 2 weeks |
+- to have a well defined agenda on meeting set |- accept my lead within 24 hours if qualification criteria met|
 .....|.....|
 
 
