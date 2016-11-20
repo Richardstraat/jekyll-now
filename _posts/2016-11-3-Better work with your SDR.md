@@ -48,12 +48,13 @@ As well, using an open collaboration platform like GitHub, you can get the suppo
 
 # Accountability and transparency
 
-I encourage both field Sales Rep and SDR to be accountable of each other actions and initiatives. The very minimum should be two meetings a week : 1 meeting to plan the week ahead and 1 meeting for feedback.
+I encourage both field Sales Rep and SDR to be accountable of each other actions and initiatives. I have already stressed the importance of constant communication. It is also important to have weekly meeting scheduled with a more structured agenda. I recommend two meetings a week : 1 meeting to plan the week ahead and 1 meeting for feedback.
 During the first meeting, as an SDR you share your goals and commit on the actions you will take to achieve them.
 
 I recommend the CRM to be the unique source of truth where will you can see all the activities report of the week.
-Everything is completly open and transparent. It is the foundation you need to build trust.
+Everything is completly open and visible. It is the foundation you need to build trust.
 
+For the meeting at the end of the week, this is an opportunity to share what was good and what went wrong, why and being open and transparent about it.
 Part of the trasnparency is also being open with your feelings and with what you are thinking. You must be able to overcome differences and opinions and expressing it.
 
 
