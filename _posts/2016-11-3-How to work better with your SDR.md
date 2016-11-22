@@ -68,10 +68,3 @@ While it is the role of the SDR manager to really train the SDR in a regular bas
 Listening phone calls, running sales campaign together or role playing are very valuable activities which will really build out this relationship.
 
 It is not to forget that baby boomers have a lot to learn from Millenials so it is very often a two way street. The role of the mentor and the mentee can be easily reversed.
-
-
-
-
-
-
-
