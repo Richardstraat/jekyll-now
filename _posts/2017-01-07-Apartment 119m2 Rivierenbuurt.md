@@ -14,6 +14,7 @@ Specifics
  - Sunny roof terrace and balcony facing east 
  - Available Immediately 
  - Deposit 2 months rent
+ - Annual lease not furnished
 
 Monthly rent : 2500 euros/m through agency
 Call me directly and save 150 euros = 2350 euros per month
