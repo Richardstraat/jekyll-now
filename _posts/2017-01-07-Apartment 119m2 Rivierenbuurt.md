@@ -9,11 +9,11 @@ Neighbourhood
 The apartment is located in the Rivierenbuurt, where the typical Amsterdam School architecture predominates. The nearby Scheldestraat features plenty of shops, restaurants and and schools-including the French School (4 minutes bike ride) and the internation school AICS (8 minutes bike ride). The popular Pipe area is located 5 (bike) minutes away. The Diezestraat is easily accessible by car via the ring exit S109 RAI and Amstel exit S111 (Good link with the A1, A2, A4 and A9 and with public transport (tram lines 4 and 12, Future North / South)). Train and subway station Rai located within a few minutes by foot. Partly due to the development of the South Axis, the spacious layout and the many architectural details, the River area is one of the top locations in Amsterdam! 
 
 Specifics 
-- Private entrance; 
-- No dogs allowed 
-- Sunny roof terrace and balcony facing east 
-- Available Immediately 
-- Deposit 2 months rent
+ - Private entrance; 
+ - No dogs allowed 
+ - Sunny roof terrace and balcony facing east 
+ - Available Immediately 
+ - Deposit 2 months rent
 
 Monthly rent : 2500 euros/m through agency
 Call me directly and save 150 euros = 2350 euros per month
@@ -36,11 +36,11 @@ Quartier
 L'appartement est situé dans le Rivierenbuurt, où prédomine l'architecture typique de l'école d'Amsterdam. Le Scheldestraat et le Maastraat à proximité offre de nombreux magasins, restaurants et écoles, y compris l'école française et l'école internationale. La zone populaire Pipe est situé à 5 minutes en vélo. L'appartement est facilement accessible en voiture via la sortie S109 RAI et Amstel sortie S111 (bon lien avec l'A1, A2, A4 et A9 et avec les transports publics (lignes de tramway 4 et 12, Future North / South)). Train et station de métro Rai situé à quelques minutes à pied. En partie à cause du développement de l'Axe Sud, de la disposition spacieuse et des nombreux détails architecturaux, la région de la rivière est l'un des meilleurs endroits à Amsterdam!
 
 Détails
-- Entrée privée;
-- Terrasse ensoleillée sur le toit et balcon orienté est
-- Disponible immédiatement
-- Dépôt de garantie 2 mois 
-- Bail annuel location non meublée
+ - Entrée privée;
+ - Terrasse ensoleillée sur le toit et balcon orienté est
+ - Disponible immédiatement
+ - Dépôt de garantie 2 mois 
+ - Bail annuel location non meublée
 
 Loyer : 2500 euros/mois par agence
 En m'appelant directement, économie de 150 euros = 2350 euros
