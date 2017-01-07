@@ -1,3 +1,22 @@
+Apartment (119m2) with three bedrooms and a beautiful rooftop terrace in a quiet street in the popular Rivierenbuurt. 
+
+Layout 
+Through a private entrance on the first floor you reach the spacious hall on the second floor. From the hall you can access the light and spacious living room with French doors to the balcony on the east. The house has a eat-in kitchen-which is equipped with a 5 burner stove, dishwasher, double fridge freezer, cooker hood and built-in oven. The balcony is ook accessible from the kitchen. At the front of the apartment lies the first large bedroom, a bathroom with bath and washbasin and a separate toilet. 
+
+Through the staircase you reach the third floor, where you reach the sunny and spacious roof terrace through the corridor. There are two large bedrooms with storage at the front of the apartment. 
+
+Neighbourhood 
+The apartment is located in the Rivierenbuurt, where the typical Amsterdam School architecture predominates. The nearby Scheldestraat features plenty of shops, restaurants and and schools-including the French School (4 minutes bike ride) and the internation school AICS (8 minutes bike ride). The popular Pipe area is located 5 (bike) minutes away. The Diezestraat is easily accessible by car via the ring exit S109 RAI and Amstel exit S111 (Good link with the A1, A2, A4 and A9 and with public transport (tram lines 4 and 12, Future North / South)). Train and subway station Rai located within a few minutes by foot. Partly due to the development of the South Axis, the spacious layout and the many architectural details, the River area is one of the top locations in Amsterdam! 
+
+Specifics 
+- Private entrance; 
+- No pets allowed 
+- Sunny roof terrace and balcony facing east 
+- Available Immediately 
+- Deposit 2 months rent
+
+**Français**
+
 Apartement 119m2 (3 chambres avec terrasse) à louer dans le quartier Rivierenbuurt 
 
 Dans une rue tres calme, proche de l'ecole francaise Van Gogh (4 minutes en velo) et de l'ecole internationale AICS (8 minutes en velo) et de British school of Amsterdam (8 minutes en velo)
