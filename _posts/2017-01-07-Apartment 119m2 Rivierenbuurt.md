@@ -10,10 +10,15 @@ The apartment is located in the Rivierenbuurt, where the typical Amsterdam Schoo
 
 Specifics 
 - Private entrance; 
-- No pets allowed 
+- No dogs allowed 
 - Sunny roof terrace and balcony facing east 
 - Available Immediately 
 - Deposit 2 months rent
+
+Monthly rent : 2500 euros/m through agency
+Call me directly and save 150 euros = 2350 euros per month
+
+Richard: +31 6 469 60 423 - richibellet@gmail.com
 
 **Français**
 
