@@ -19,6 +19,9 @@ Détails
 - Bail annuel location non meublée
 
 Loyer : 2500 euros/mois par agence
-En m'appelant directement, economie de 150 euros = 2350 euros
+En m'appelant directement, économie de 150 euros = 2350 euros
 
 Richard: +31 6 469 60 423 - richibellet@gmail.com
+
+![image](https://cloud.githubusercontent.com/assets/13346984/21743022/7ce62b32-d4fa-11e6-8d94-8cc084791833.png)
+
