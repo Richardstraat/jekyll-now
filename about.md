@@ -8,7 +8,7 @@ With more than 10 years in experience selling software, I am passionate about te
 
 ### More Information
 
-I am a proud dad of 2 daughter of 8 and 10 years old who can speak english, dutch, french and spanish and who wants their next langage to be HTML and CSS :)
+I am a proud dad of 2 daughter of 9 and 11 years old who can speak english, dutch, french and spanish and who wants their next langage to be HTML and CSS :)
 
 
 ### Contact me
